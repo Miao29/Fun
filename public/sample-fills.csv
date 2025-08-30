@@ -1,0 +1,7 @@
+timestamp,symbol,side,qty,price,order_id,fill_id,fees,tag,notes
+2025-08-28T09:34:12-04:00,NQZ5,BUY,1,17892.25,ord1,fill1,2.40,opening_drive,entry
+2025-08-28T09:35:10-04:00,NQZ5,BUY,1,17893.00,ord2,fill2,2.40,opening_drive,scale in
+2025-08-28T09:36:00-04:00,NQZ5,SELL,2,17895.75,ord3,fill3,2.40,opening_drive,exit all
+2025-08-28T10:12:05-04:00,MNQZ5,SELL,1,17870.50,ord4,fill4,0.50,pullback,short entry
+2025-08-28T10:14:22-04:00,MNQZ5,SELL,1,17869.75,ord5,fill5,0.50,pullback,scale in
+2025-08-28T10:16:40-04:00,MNQZ5,BUY,2,17865.25,ord6,fill6,0.50,pullback,cover all
